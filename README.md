@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi there 👋, I'm Rohit.
+i'm a student and i love exploring stuff about Android and Kernel development.
+I’m currently learning C and python...
+How to reach me: Ping me on [Telegram](https://t.me/i_suck_at_every_thing)
 
+![Profile-views](https://komarev.com/ghpvc/?username=rohit12043&color=blue&style=flat)
+ 
+![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=rohit12043&show_icons=true&theme=radical&hide=issues)
 <!--
 **rohit12043/rohit12043** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
